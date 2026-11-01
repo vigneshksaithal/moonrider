@@ -14,7 +14,7 @@ require (
 	github.com/jackc/pgservicefile v0.0.0-20240606120523-5a60cdf6a761 // indirect
 	github.com/jackc/puddle/v2 v2.2.3 // indirect
 	github.com/rs/xid v1.4.0 // indirect
-	golang.org/x/net v0.44.0 // indirect
+	golang.org/x/net v0.55.0 // indirect
 	golang.org/x/sync v0.22.0 // indirect
 	golang.org/x/text v0.41.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
