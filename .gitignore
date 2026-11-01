@@ -46,3 +46,14 @@ app.*.map.json
 
 # Widget Preview related
 .widget_preview/
+
+# Moonrider credentials and backend artifacts
+.env
+.env.*
+!.env.example
+certs/*
+!certs/.gitkeep
+*.key
+*.pem
+backend/bin/
+.cache/
